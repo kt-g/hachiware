@@ -45,6 +45,11 @@ void loop()
       printDetail(myDFPlayer.readType(), myDFPlayer.read());
       break;
 
+    case 5:
+      myDFPlayer.next();
+      Serial.println("received'Hachiware',command flag'5'");  
+      printDetail(myDFPlayer.readType(), myDFPlayer.read());
+      break;
     default:
       if (CMDID != 0) {
         Serial.print("CMDID = ");  //Printing command ID
@@ -180,6 +185,6 @@ void setupDFPlayerMini() {
   }
   Serial.println(F("DFPlayer Mini online."));
   
-  myDFPlayer.volume(15);  //Set volume value. From 0 to 30
+  myDFPlayer.volume(30);  //Set volume value. From 0 to 30
 }
 
