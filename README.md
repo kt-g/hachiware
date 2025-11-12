@@ -8,7 +8,7 @@ Base
 - [ ] Code
   - [x] Upload sounds to microSD
   - [x] Play sounds for default commands
-  - [ ] Add custom commands/play sounds
+  - [x] Add custom commands/play sounds
 - [ ] Enclosure for electronics
   - [ ] CAD box
   - [ ] Laser cut panels
