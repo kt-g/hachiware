@@ -5,7 +5,7 @@ Base
 - [x] Electronics
   - [x] Wire voice recognition module
   - [x] Wire MP3 player + speaker
-- [ ] Code
+- [x] Code
   - [x] Upload sounds to microSD
   - [x] Play sounds for default commands
   - [x] Add custom commands/play sounds
