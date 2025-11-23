@@ -9,9 +9,9 @@ Base
   - [x] Upload sounds to microSD
   - [x] Play sounds for default commands
   - [x] Add custom commands/play sounds
-- [ ] Enclosure for electronics
-  - [ ] CAD box
-  - [ ] Laser cut panels
+- [x] Enclosure for electronics
+  - [x] CAD box
+  - [x] Laser cut panels
 
 Extras
 - [ ] "Party mode"
